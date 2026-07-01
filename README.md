@@ -11,5 +11,4 @@
 * CSS
 * HTML
 * JavaScript
-* Python
 * PHP
