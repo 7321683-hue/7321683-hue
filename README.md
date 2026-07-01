@@ -1,18 +1,15 @@
-## Hi there 👋
+## HOLA  👋
+* Este es mi primera Experiencia en GITHUB para subir mis proyectos de programacion *
 
-hla
+##  Mis Objetivos de este Año
+* Tener un promedio alto en mis notas
+* Entrenar los mas seguidos posiboles en fulbito
+* Aprender la culebrita
 
-<!--
-**7321683-hue/7321683-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ## Lenguajes de programacion que he usado 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* CSS
+* HTML
+* JavaScript
+* Python
+* PHP
